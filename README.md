@@ -4,6 +4,8 @@ platforms: javascript
 author: lindydonna
 ---
 
+# First Commit Forked
+
 # Azure Functions Proxies Sample
 
 This sample demonstrates a simple single page application that is hosted on Azure Storage. The site returns a different Azure Functions logo whenever the site is refreshed. The SPA calls APIs that are served from Azure Functions. Proxies are used to route the site root to the SPA and also provide access to the `GetFunctionLogo` function.
